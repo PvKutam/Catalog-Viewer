@@ -1,0 +1,19 @@
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin: 0 0rem;
+    padding: 10px;
+  }
+
+  li img {
+    width: 12rem;
+    height: 12rem;
+    border-radius: 1.25rem;
+  }
+
+  
